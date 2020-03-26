@@ -84,6 +84,10 @@ indent_size = 2
 indent_style = space
 indent_size = 2
 
+[*.dict.yaml]
+indent_style = tab
+tab_width = 4
+
 [*.toml]
 indent_style = space
 indent_size = 2
